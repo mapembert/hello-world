@@ -1,0 +1,15 @@
+# Ignore build output directories
+/target/
+/generated-sources/
+/maven-archiver/
+/maven-status/
+
+# Ignore IDE specific files
+
+# Ignore Maven / Gradle specific files
+.mvn/
+.gradle/
+
+# Ignore TRIRIGA licensed jar files
+TririgaBusinessConnect.jar
+TririgaCustomTask.jar
